@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🏫 I'm a student of Computer Science in Uminho
+- 🌱 I’m currently learning lots of stuff
 <!--
 **joao-mg/joao-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
